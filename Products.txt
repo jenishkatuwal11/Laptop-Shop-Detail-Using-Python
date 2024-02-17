@@ -1,0 +1,6 @@
+Omen, HP, $2000, 900, i7 7th Gen, GTX 3060
+XPS, Dell, $1976, 200, i5 9th Gen, GTX 3070
+Helios 300, Acer, $1978, 1000, i5 9th Gen, GTX 3070
+Swift 7, Acer, $900, 500, i5 9th Gen, GTX 3070
+Macbook Pro 16, Apple, $3500, 600, i5 9th Gen, GTX 3070
+Yoga, Lenovo, $2200, 400, i7 12 gen, rtx 4090
