@@ -1,1 +1,1 @@
-# Laptop-Shop-Detail-Usinf-Python
+# Laptop-Shop-Detail-Using-Python
